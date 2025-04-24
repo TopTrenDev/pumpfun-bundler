@@ -114,12 +114,6 @@ We welcome contributions to this project! If you have any ideas, improvements, o
 
 ---
 
-## **📄 License**
-
-This project is licensed under the **MIT License**. For more details, see the [LICENSE](LICENSE) file.
-
----
-
 ## **🔥 PumpFun Bundler V2**
 
 ### **Introducing PumpFun Bundler Version 2**
@@ -133,4 +127,4 @@ Now you can create and buy tokens with **20 wallets in a single bundle**. This n
 ## **📬 Contact & Community**  
 
 📢 **Telegram:** [@toptrendev](https://t.me/toptrendev)  
-📢 **Discord:** [toptrendev](https://discordapp.com/users/334173411402317846)  
+📢 **Twitter:** [toptrendev](https://x.com/toptrendev)  
