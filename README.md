@@ -130,4 +130,4 @@ Now you can create and buy tokens with **20 wallets in a single bundle**. This n
 
 📢 **Discord:** [toptrendev](https://discord.com/users/648385188774019072)
 
-📢 **Telegram:** [@toptrendev](https://t.me/toptrendev_146)
+📢 **Telegram:** [@toptrendev_146](https://t.me/toptrendev_146)
