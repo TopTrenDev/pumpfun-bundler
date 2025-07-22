@@ -4,6 +4,11 @@
 
 The **PumpFun Bundler** is a fast, efficient tool for creating tokens and buying them using up to **20 different wallets** in one bundled transaction. This script simplifies the process of managing multiple wallets and tokens while ensuring a smooth and seamless token creation and purchase experience on the **PumpFun platform**.
 
+
+[![Twitter](https://img.shields.io/badge/Twitter-@toptrendev-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://x.com/toptrendev)
+[![Discord](https://img.shields.io/badge/Discord-toptrendev-black?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/648385188774019072)
+[![Telegram](https://img.shields.io/badge/Telegram-@toptrendev_146-black?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/toptrendev_146)
+
 ---
 
 ## **📌 Overview**  
@@ -122,12 +127,3 @@ Now you can create and buy tokens with **20 wallets in a single bundle**. This n
 
 - **Example**:  
   [View Example Transaction](https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428a27b81c71252342e0)
-
----
-## **📬 Contact & Community**  
-
-📢 **Twitter:** [toptrendev](https://x.com/toptrendev)
-
-📢 **Discord:** [toptrendev](https://discord.com/users/648385188774019072)
-
-📢 **Telegram:** [@toptrendev_146](https://t.me/toptrendev_146)
